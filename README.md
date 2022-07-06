@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Ishtmeet</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtmeet-singh&label=Views%20Today&color=blue&style=plastic&style=for-the-badge" alt="ishtmeet-singh" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtmeet-singh&label=Profile%20Visits&color=blue&style=plastic&style=for-the-badge" alt="ishtmeet-singh" /> </p> 
 
 # 💫 About Me :
 - 🔭 Full-Stack, Game and Embedded developer
