@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Ishtmeet</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtmeet-singh&label=Profile%20Visits&color=blue&style=plastic&style=for-the-badge" alt="ishtmeet-singh" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtms&label=Profile%20Visits&color=blue&style=plastic&style=for-the-badge" alt="ishtms" /> </p> 
 
 # 💫 About Me :
 - 🔭 Full-Stack, Game and Embedded developer
@@ -25,10 +25,10 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=ishtmeet-singh&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=ishtms&theme=minimal"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishtmeet-singh&theme=vue" />
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishtms&theme=vue" />
 </p>
